@@ -1,8 +1,8 @@
-# multiple_imputation
-Multiple Imputation in R
+# Multiple Imputation in R
 
-Rubin's rules
-Example of multiple imputation with two variables
+## Rubin's rules
+
+## Example of multiple imputation with two variables
 
 Simulating Data
 ```
